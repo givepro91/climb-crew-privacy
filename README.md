@@ -9,6 +9,7 @@ GitHub Pages 로 `https://givepro91.github.io/climb-crew-privacy/` 에 배포된
 | `index.html` | 개인정보 처리방침 |
 | `terms.html` | 이용약관 |
 | `support.html` | 고객 지원 · 문의 |
+| `odds.html` | 확률형 아이템 확률 정보(게임산업법 제33조 제2항 · 게임 저장소 `scripts/make-odds-page.py` 가 표에서 만든다) |
 
 약관을 바꿀 때는 시행일을 본문에 적고 그 날짜 전에 올린다. 2026-09-25 개정(환불 회수 방식, 3조)은 2026-10-25 시행이다.
 
